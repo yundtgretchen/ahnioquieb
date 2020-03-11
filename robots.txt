@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aaphenootu.plugin.moda/sitemap.xml
